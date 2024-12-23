@@ -2,8 +2,6 @@ from flask import Flask, request, jsonify
 import joblib
 import numpy as np
 
-
-# Load the saved Random Forest model and preprocessors
 model = joblib.load('random_forest.pkl')
 scaler = joblib.load('scaler.pkl')
 label_encoder = joblib.load('label_encoder.pkl')
