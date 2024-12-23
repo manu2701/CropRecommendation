@@ -175,6 +175,6 @@ cd CropRecommendation
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
 - **Name:** Manu
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [manu.leo.1718@gmail.com](mailto:your-email@example.com)
 - **GitHub:** [manu2701](https://github.com/manu2701)
 
