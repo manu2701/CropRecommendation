@@ -178,3 +178,13 @@ For any questions or suggestions, feel free to reach out:
 - **Email:** [manu.leo.1718@gmail.com](mailto:your-email@example.com)
 - **GitHub:** [manu2701](https://github.com/manu2701)
 
+- ## 📸 Screenshots
+
+### 1. Frontend
+![Home Page](./screenshots/Frontend.png)
+
+### 2. Testing through ThunderClient
+![Input Form](./screenshots/Backend_Test.png)
+
+
+
